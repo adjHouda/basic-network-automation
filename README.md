@@ -1,10 +1,16 @@
 the tools used
+
 netmiko + flask +react +gns3
+
+
 
 installation guide :
 
 pip install flask flask-cors netmiko 
+
 npx create-react-app my-react-app    (for the react app)
+
+
 
 guide to run :
 
