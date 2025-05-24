@@ -18,6 +18,6 @@ guide to run :
 
 2/ run you front : npm start 
 
-3/ start a new terminal session and your backend  : python app.py
+3/ start a new terminal session for your backend  : python app.py
 
 4/ for any conf you need to know your port number (find it in gns3)
